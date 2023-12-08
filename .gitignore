@@ -1,0 +1,8 @@
+output/
+trials/
+smaps/
+__pycache__/
+DeepGaze/
+.*/
+*.npy
+*.pkl
