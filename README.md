@@ -63,3 +63,5 @@ TBD: Consider saliency in images through text prompts (e.g., CLIP model)
 * Kleanthis Avramidis, PhD Student in Computer Science
 
 University of Southern California, Citation TBD
+
+https://www.dropbox.com/scl/fo/e9oriz0ixuoqi0r3agu66/h?rlkey=ipl242vcc7e0v7k01gomvubfc&dl=0
