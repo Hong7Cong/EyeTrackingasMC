@@ -8,3 +8,10 @@ DeepGaze/
 .*/
 *.npy
 *.pkl
+*.png
+model.pycarl
+xrmc-example.ipynb
+ctmc-example.py
+*.csv
+*.json
+explore.ipynb
