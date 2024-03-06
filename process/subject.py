@@ -417,17 +417,12 @@ class Subject:
                 ret.append('EBLINK')
             else:
                 l = line.split("\t")
-                # print(l)
-                # print(len(l))
                 if(l[0].isdigit() == False):
                     continue
                 if(startcount == False):
                     startcount = True
                     startvalue = float(l[0])
                 lastvalue = float(l[0])
-                # print(lastvalue)
-                # ret.append(l[0])
-        # ret.append(lastvalue - startvalue)
         return ret
 
     
